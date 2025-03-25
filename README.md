@@ -13,9 +13,9 @@ This code also utilizes differential grid generation which solves the elliptical
 
 
 ## Future Work
-\begin{itemize}
-\item Higher order schemes for calculating interior points
-\item generalized implementation of boudnary conditions
-\item Updated implementation of CFL condition
-\item Updated implementation of Steger-Warming and Lax-Friedrich to run quicker
-\end{itemize}
+
+* Higher order schemes for calculating interior points
+* generalized implementation of boudnary conditions
+* Updated implementation of CFL condition
+* Updated implementation of Steger-Warming and Lax-Friedrich to run quicker
+

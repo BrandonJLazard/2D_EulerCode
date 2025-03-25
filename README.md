@@ -18,3 +18,4 @@ This code also utilizes differential grid generation which solves the elliptical
 \item generalized implementation of boudnary conditions
 \item Updated implementation of CFL condition
 \item Updated implementation of Steger-Warming and Lax-Friedrich to run quicker
+\end{itemize}
